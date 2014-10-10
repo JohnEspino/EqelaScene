@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# FourEvents
+#
+
+projectname: FourEvents
+vendorid: com.myFourEvents
+mainmodule: com.myFourEvents.fourevents
